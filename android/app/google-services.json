@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141233840643",
+    "project_id": "fluttertypescriptcourse-758e9",
+    "storage_bucket": "fluttertypescriptcourse-758e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141233840643:android:f755feac097dbf03dca436",
+        "android_client_info": {
+          "package_name": "com.example.flutter_workshop_tweet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJyRjOYvJ_js0IPHv8cBQXU_e1gG_wpDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
